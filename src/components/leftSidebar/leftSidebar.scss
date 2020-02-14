@@ -1,0 +1,12 @@
+.left-column{
+    position: relative;
+    margin-left: 10px;
+    width: 10%;
+    float: left;
+    border: 1px solid black;
+    border-top: none;
+    .side-bar-menu-item{
+        padding: 15px;
+        border-top: 1px solid black;
+    }
+}

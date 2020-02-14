@@ -1,0 +1,29 @@
+.item_1{
+    position: relative;
+    img{
+        width: 203px;
+        height: 220px;
+    }
+    .manga-caption{
+        position: absolute;
+        background-color: black;
+        width: 203px;
+        opacity: 0.8;
+        bottom: -110px;
+        min-height: 60px;
+        h3{
+            color: white;
+            margin: 0px;
+        }
+    }
+}
+.item_2{
+    padding: 10px;
+    border-top: 2px solid;
+    img{
+        width: 70px;
+        height: 85px;
+        float: left;
+        margin-right: 5px;
+    }
+}

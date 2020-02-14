@@ -1,0 +1,23 @@
+.navbar-right{
+    li{
+        margin: 15px;
+        .notification{
+            font-size: 200%;
+            padding: 10px;
+        }
+    }
+    .main-nav-sign-in {
+        a {
+            color: black !important;
+        }
+        background-color: silver;
+        color: black;
+        border: 1px solid silver;
+        border-radius: 13px;
+        font-weight: bold;
+        font-size: 18px;
+        padding: 7px 5px;
+        margin-top: 3px;
+    }
+    
+}
